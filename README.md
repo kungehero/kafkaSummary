@@ -1,6 +1,14 @@
 # kafkaSummary
 
 ![kafka](https://kafka.apache.org/23/images/kafka-apis.png)
+# 问题深思
+* kafka节点之间如何复制备份的？
+* kafka消息是否会丢失？为什么？
+* kafka最合理的配置是什么？
+* kafka的leader选举机制是什么？
+* kafka对硬件的配置有什么要求？
+* kafka的消息保证有几种方式？
+* kafka为什么会丢消息？
 
 ## 1.基本概念
    * kafka的主题和分区内部是如何存储的，它有什么特点？
