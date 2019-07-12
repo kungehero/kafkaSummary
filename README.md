@@ -13,5 +13,8 @@
 ### kafkaAPIS
    * LogManager
    ![log](http://on-img.com/chart_image/5b717077e4b067df5a071754.png?_=1534417180862)
+   
+   >> LogSegment: skiplist 表数据结构
+   
    * ReplicaManager
    ![replica]()
