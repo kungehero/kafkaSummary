@@ -11,4 +11,5 @@
 ![broker](https://img-blog.csdn.net/20140803144704215?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbGl6aGl0YW8=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 ### kafkaAPIS
-   * LOG
+   * LogManager
+   ![log](http://on-img.com/chart_image/5b717077e4b067df5a071754.png?_=1534417180862)
